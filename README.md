@@ -1,4 +1,3 @@
-README.md
 Project Title
 The Cocktail Database
 
