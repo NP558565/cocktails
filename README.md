@@ -1,3 +1,4 @@
+![cocktails](https://user-images.githubusercontent.com/76566329/131918841-b9bdbeb5-bdc9-403b-a491-bd0f9d1f12ff.png)
 Project Title
 The Cocktail Database
 
